@@ -1,7 +1,6 @@
 
 
-### About me
- - I am Bikash Shrestha.                                                                                                                                                         
+### About me                                                                                                                                                     
  - I am a 2nd year student of Bachelor of Arts in Computer Science.                                                                                                                   
  - I am currently working on web development.
 

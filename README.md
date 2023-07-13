@@ -2,7 +2,7 @@
 
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,java,,php,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,java,php,git)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=bixash&color=green)

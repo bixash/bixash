@@ -3,7 +3,7 @@
 
 <h3>Technologies I know</h3>  
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,java,php,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,js,php,git)](https://skillicons.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=bixash&color=green)

@@ -3,7 +3,7 @@
 
 <h3>Technologies that I'm familiar with:</h3>  
 
-![](https://skillicons.dev/icons?i=java,spring,angular,python,redis,c,php,react,docker,rabbitmq,git&perline=6)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,python,redis,c,php,react,docker,rabbitmq,git&perline=6)]()
 
 
 ![](https://komarev.com/ghpvc/?username=bixash&color=green)
